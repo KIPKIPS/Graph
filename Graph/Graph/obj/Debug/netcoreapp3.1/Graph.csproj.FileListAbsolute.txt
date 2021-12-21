@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+C:\Users\admin\Desktop\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+C:\Users\admin\Desktop\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+C:\Users\admin\Desktop\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+C:\Users\admin\Desktop\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\admin\Desktop\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache
